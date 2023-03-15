@@ -1,0 +1,24 @@
+.button__cta {
+	text-decoration: none;
+
+
+
+	.button__cta-box {
+		width: 23.1rem;
+		height: 5.8rem;
+		background-color: $-s-white;
+		border-radius: 100rem;
+		font-size: 1.6rem;
+		font-weight: 500;
+		color: $-m-black;
+
+		display: flex;
+		justify-content: center;
+		align-items: center;
+
+		box-shadow: 0px 20px 30px rgba(249, 131, 171, 0.5);
+
+
+		
+	}
+}

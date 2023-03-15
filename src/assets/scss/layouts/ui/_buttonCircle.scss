@@ -1,0 +1,14 @@
+.button__circle {
+	text-decoration: none;
+}
+
+.button__circle-box {
+	width: 3.2rem;
+	height: 3.2rem;
+	border-radius: 100rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: $-s-white;
+	padding: 1rem;
+}
